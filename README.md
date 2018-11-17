@@ -1,2 +1,0 @@
-# fdsniodsmvdfd
-sdd,lsomdomsod
