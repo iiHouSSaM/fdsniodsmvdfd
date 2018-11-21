@@ -1,6 +1,6 @@
 HouSSaM.on('message', message => {//iiHouSSaM#9494
         if (!nounou.includes(message.author.id)) return;//iiHouSSaM#9494
-  if (message.content === '963') {//iiHouSSaM#9494
+  if (message.content === '852') {//iiHouSSaM#9494
    // let channel = guild.channels.find('name', '➥ AFK..');//NouNouDz#6720
 message.delete()
   let channel = nounoudz.channels.get('514641715651543041');//iiHouSSaM#9494
